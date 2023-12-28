@@ -1,9 +1,9 @@
-# Portfolio
+# yandex_practicum
 
 Здесь собраны некоторые реализованные проекты
 
-| #    | Наименование проекта                | Описание                                                     | Стек                                                         |
+| #    | Наименование проекта                | Цель проекта                                                  | Инструменты и навыки                                         |
 | ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
-| 1.   | [Улучшение процесса обогащения золота](https://github.com/aq2003/Portfolio/tree/main/Gold%20Recovery) | Выбор лучшей модели для увеличения <br/>показателей технологического процесса <br/>обогащения золота | python, pandas, numpy, scipy, sklearn, matplotlib       |
-| 2.   | [Прогноз количества заказов для сервиса такси](https://github.com/aq2003/Portfolio/tree/main/Taxi%20Service) | Прогноз количества заказов в аэропортах <br/>для сервиса такси с целью более точного планирования количества доступных <br/>автомобилей | python, pandas, numpy, statsmodels, sklearn, CatBoost, matplotlib |
-| 3.   | [Анализ текстов](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | Анализ комментариев пользователей на токсичность             | python, pandas, numpy, nltk, sklearn, CatBoost |
+| 1.   | [Исследование рынка популярных компьютерных игр](https://github.com/LarisaChekanova/yandex_practicum/blob/main/Popular%20computer%20games/popular%20games.ipynb) | Выявить закономерности, определяющие успешность компьютеных игр. | Python, pandas, numpy, seaborn, matplotlib, scipy, BI, описательная статистика, проверка статистических гипотез, исследовательский анализ |
+| 2.   | [Улучшение процесса обогащения золота](https://github.com/LarisaChekanova/yandex_practicum/blob/main/Gold%20Recovery/gold%20recovery.ipynb) | Обучение моделей для предсказания коэффициента восстановления золота из руды и выбор модели с лучшей метрикой sMAPE | Python, pandas, numpy, seaborn, matplotlib, sklearn, BI, ML, линейная алгебра, исследовательский анализ |
+| 3.   | [Машинное обучение для текстов](https://github.com/aq2003/Portfolio/tree/main/Analyzing%20Texts) | Обучите модель классифицировать комментарии на позитивные и негативные с метрикой качества F1 не меньше 0.75.  | Python, pandas, numpy, sklearn, catboost, nltk |
