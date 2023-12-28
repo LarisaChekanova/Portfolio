@@ -1,4 +1,4 @@
-[ipynb](https://github.com/LarisaChekanova/yandex_practicum/blob/main/Машинное%20обучение%20для%20текстов/ML_NLP.ipynb)
+[ipynb](https://github.com/LarisaChekanova/yandex_practicum/blob/main/Машинное%20обучение%20для%20текстов/ML_NLP%20.ipynb)
 
 # Машинное обучение для текстов
 
