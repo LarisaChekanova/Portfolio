@@ -15,6 +15,8 @@
 
 Python, pandas, numpy, sklearn, catboost, nltk
 
+**Статус проекта:** закончен.
+
 **Выводы:**
 
 Лучший показатель метрики качества F1 у модели LogisticRegression + GridSearchCV - 0,75.
